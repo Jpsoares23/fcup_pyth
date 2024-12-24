@@ -10,3 +10,4 @@ Repository for educational purpose only.
 
 | Number |                      Sheets Theme                      |
 |:------:|:------------------------------------------------------:|
+|   1    | [Functions, Cycles and Turtle](./sheet1/statements.md) |
